@@ -113,6 +113,7 @@ Email/SMS notification integration
 
 👨‍💻 Author
 
-Ritesh
-Email: satreritesh9@gmail.com
-GitHub: https://[github.com/YOUR-USERNAME](https://github.com/Riteshsatre)
+Ritesh Satre
+📧 Email: satreritesh9@gmail.com
+
+🌐 GitHub: https://github.com/Riteshsatre
