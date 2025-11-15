@@ -37,9 +37,13 @@ Eclipse IDE
 📂 Project Structure :
 src/
  └── com.tka
+ 
       ├── main            # Main class with menu-driven program
+      
       ├── dao             # Database operations (CRUD)
+      
       ├── model           # Customer, Room, Booking POJO classes
+      
       └── system          # DBUtil for MySQL connection
 
 🗄️ Database Setup : 
