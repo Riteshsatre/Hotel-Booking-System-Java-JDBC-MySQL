@@ -17,11 +17,13 @@ Add rooms with room type, price, and availability
 View all rooms
 
 📅 Booking Management :
+
 Make bookings for customers
 
 View all bookings
 
 🗄️ Database Layer :
+
 Structured tables for customers, rooms, bookings
 
 MySQL + JDBC connectivity
@@ -29,30 +31,32 @@ MySQL + JDBC connectivity
 PreparedStatements for secure operations
 
 🛠️ Technologies Used : 
+
 Java 8+
+
 JDBC
+
 MySQL Database
+
 Eclipse IDE
 
 📂 Project Structure :
 src/
  └── com.tka
- 
       ├── main            # Main class with menu-driven program
-      
       ├── dao             # Database operations (CRUD)
-      
       ├── model           # Customer, Room, Booking POJO classes
-      
       └── system          # DBUtil for MySQL connection
 
 🗄️ Database Setup : 
 
 1️⃣ Create Database
+
 CREATE DATABASE hotel_booking_db;
 USE hotel_booking_db;
 
 2️⃣ Create Tables
+
 CREATE TABLE customers (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
@@ -118,6 +122,7 @@ Email/SMS notification integration
 👨‍💻 Author
 
 Ritesh Satre
+
 📧 Email: satreritesh9@gmail.com
 
 🌐 GitHub: https://github.com/Riteshsatre
