@@ -5,21 +5,26 @@ It demonstrates JDBC connectivity, DAO design pattern, and Object-Oriented Progr
 
 🚀 Features : 
 
-👤 Customer Management
+👤 Customer Management :
 Add new customers
+
 View all registered customers
 
-🏠 Room Management
+🏠 Room Management :
 Add rooms with room type, price, and availability
+
 View all rooms
 
-📅 Booking Management
+📅 Booking Management :
 Make bookings for customers
+
 View all bookings
 
-🗄️ Database Layer
+🗄️ Database Layer :
 Structured tables for customers, rooms, bookings
+
 MySQL + JDBC connectivity
+
 PreparedStatements for secure operations
 
 🛠️ Technologies Used : 
