@@ -1,4 +1,5 @@
 🏨 Hotel Booking System – Java + JDBC + MySQL : 
+
              A console-based Hotel Booking System built using Core Java, JDBC, and MySQL.
 This project helps manage customers, rooms, and bookings through a menu-driven interface.
 It demonstrates JDBC connectivity, DAO design pattern, and Object-Oriented Programming.
@@ -8,6 +9,7 @@ It demonstrates JDBC connectivity, DAO design pattern, and Object-Oriented Progr
 👤 Customer Management :
 
 Add new customers
+
 View all registered customers
 
 🏠 Room Management :
@@ -41,11 +43,17 @@ MySQL Database
 Eclipse IDE
 
 📂 Project Structure :
+
 src/
+
  └── com.tka
+ 
       ├── main            # Main class with menu-driven program
+      
       ├── dao             # Database operations (CRUD)
+      
       ├── model           # Customer, Room, Booking POJO classes
+      
       └── system          # DBUtil for MySQL connection
 
 🗄️ Database Setup : 
@@ -104,19 +112,29 @@ com.tka.main.main
 🎯 Learning Outcomes :
 
 How to connect Java with MySQL using JDBC
+
 CRUD operations using PreparedStatement
+
 Exception handling in JDBC
+
 DAO pattern implementation
+
 Designing console-based applications
+
 Good OOP practices
 
 🔮 Future Enhancements : 
 
 Admin Login Module
+
 Automatic room availability check
+
 Booking cancellation
+
 Generate bill/receipt
+
 Add GUI using JavaFX or Swing
+
 Email/SMS notification integration
 
 👨‍💻 Author
