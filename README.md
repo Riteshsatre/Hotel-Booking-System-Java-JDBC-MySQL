@@ -8,7 +8,7 @@ It demonstrates JDBC connectivity, DAO design pattern, and Object-Oriented Progr
 👤 Customer Management :
 Add new customers
 
-View all registered customers
+    View all registered customers
 
 🏠 Room Management :
 Add rooms with room type, price, and availability
