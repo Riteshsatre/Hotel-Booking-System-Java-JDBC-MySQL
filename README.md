@@ -1,5 +1,6 @@
 🏨 Hotel Booking System – Java + JDBC + MySQL : 
-     A console-based Hotel Booking System built using Core Java, JDBC, and MySQL.
+
+A console-based Hotel Booking System built using Core Java, JDBC, and MySQL.
 This project helps manage customers, rooms, and bookings through a menu-driven interface.
 It demonstrates JDBC connectivity, DAO design pattern, and Object-Oriented Programming.
 
